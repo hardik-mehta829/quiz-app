@@ -17,4 +17,5 @@ Run all the commands in terminal :
 
 To start the server run : **nodemon .\index.js** or **node .\index.js**
 
-To view the app in browser paste **http://localhost:3000/** in the browser search.
+To view the app in browser paste **http://localhost:3000/** in the browser search after starting the server  
+This is the deployed app url https://quiz-app-1az6.onrender.com
