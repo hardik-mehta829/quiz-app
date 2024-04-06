@@ -1,0 +1,228 @@
+[
+  {
+    "number": 1,
+    "question": "Which of the following statements are ?",
+
+    "options": [
+      {
+        "option": "A",
+        "text": "Node js is a server-side language"
+      },
+      {
+        "option": "B",
+        "text": "Node js is a client-side language"
+      },
+      {
+        "option": "C",
+        "text": "Node js is both a server and client-side language"
+      },
+      { "option": "D", "text": "None of the Above" }
+    ],
+    "correctanswer": "A"
+  },
+  {
+    "number": 2,
+    "question": "What is Callback?",
+
+    "options": [
+      {
+        "option": "A",
+        "text": "The callback is a technique in which a method calls back the caller method."
+      },
+      {
+        "option": "B",
+        "text": "The callback is an asynchronous equivalent for a function."
+      },
+      { "option": "C", "text": "Both of the above." },
+      { "option": "D", "text": "None of the above." }
+    ],
+    "correctanswer": "B"
+  },
+  {
+    "number": 3,
+    "question": "What does the fs module stand for?",
+
+    "options": [
+      { "option": "A", "text": "File Service" },
+      { "option": "B", "text": "File System" },
+      { "option": "C", "text": "File Store" },
+      { "option": "D", "text": "File Sharing" }
+    ],
+    "correctanswer": "B"
+  },
+  {
+    "number": 4,
+    "question": "What is the Node.js event loop?",
+
+    "options": [
+      {
+        "option": "A",
+        "text": " A loop that emits custom events"
+      },
+      {
+        "option": "B",
+        "text": "A mechanism to define custom events"
+      },
+      {
+        "option": "C",
+        "text": "The main process of a Node.js application"
+      },
+      {
+        "option": "D",
+        "text": "A loop that continuously checks for events and processes them"
+      }
+    ],
+    "correctanswer": "D"
+  },
+  {
+    "number": 5,
+    "question": "Which method in the fs module is used to read a file asynchronously?",
+
+    "options": [
+      { "option": "A", "text": "fs.readFile()" },
+      { "option": "B", "text": " fs.readSync()" },
+      { "option": "C", "text": "fs.openFile()" },
+      { "option": "D", "text": " fs.read()" }
+    ],
+    "correctanswer": "A"
+  },
+  {
+    "number": 6,
+    "question": "Which package manager is bundled with Node.js by default?",
+
+    "options": [
+      { "option": "A", "text": "npm" },
+      { "option": "B", "text": "bower" },
+      { "option": "C", "text": "yarn" },
+      { "option": "D", "text": "grunt" }
+    ],
+    "correctanswer": "A"
+  },
+  {
+    "number": 7,
+    "question": "How can you initiate a project using npm?",
+
+    "options": [
+      { "option": "A", "text": "npm start" },
+      { "option": "B", "text": "npm init" },
+      { "option": "C", "text": "npm run" },
+      { "option": "D", "text": "npm create" }
+    ],
+    "correctanswer": "B"
+  },
+  {
+    "number": 8,
+    "question": "In which object are all the environment variables stored in a Node.js application?",
+
+    "options": [
+      { "option": "A", "text": "env" },
+      { "option": "B", "text": "process.env" },
+      { "option": "C", "text": "node.env" },
+      { "option": "D", "text": "app.env" }
+    ],
+    "correctanswer": "B"
+  },
+  {
+    "number": 9,
+    "question": "What does the npm init command do?",
+
+    "options": [
+      {
+        "option": "A",
+        "text": "It installs all the dependencies listed in package.json."
+      },
+      {
+        "option": "B",
+        "text": "It starts the Node.js application."
+      },
+      {
+        "option": "C",
+        "text": "It creates a new Node.js application."
+      },
+      {
+        "option": "D",
+        "text": "It initializes a new package.json file."
+      }
+    ],
+    "correctanswer": "D"
+  },
+  {
+    "number": 10,
+    "question": "Default scope in Node.js application is?",
+
+    "options": [
+      { "option": "A", "text": "Global" },
+      {
+        "option": "B",
+        "text": "Local"
+      },
+      { "option": "C", "text": "Local to object" },
+      { "option": "D", "text": "None of the above" }
+    ],
+    "correctanswer": "B"
+  },
+  {
+    "number": 11,
+    "question": "What is the full form of npm?",
+
+    "options": [
+      { "option": "A", "text": "Node Project Manager" },
+      { "option": "B", "text": "New Project Manager" },
+      { "option": "C", "text": "Node Package Manager" },
+      { "option": "D", "text": "New Package Mangaer" }
+    ],
+    "correctanswer": "C"
+  },
+  {
+    "number": 12,
+    "question": "NodeJS uses an event-driven, non-blocking IO model?",
+
+    "options": [
+      { "option": "A", "text": "true" },
+      { "option": "B", "text": "false" },
+      { "option": "C", "text": "Cannot be determined" },
+      { "option": "D", "text": "None of the above" }
+    ],
+    "correctanswer": "A"
+  },
+  {
+    "number": 13,
+    "question": "Which of the following statement defines Express?",
+
+    "options": [
+      {
+        "option": "A",
+        "text": "Express is an application framework that provides a robust set of features to develop desktop-based applications."
+      },
+      {
+        "option": "B",
+        "text": "Express is a minimal and flexible Node.js web application framework that provides a robust set of features to develop web and mobile applications."
+      },
+      { "option": "C", "text": "Both of the above." },
+      { "option": "D", "text": "None of the above" }
+    ],
+    "correctanswer": "B"
+  },
+  {
+    "number": 14,
+    "question": "Which of the following method can append specified content to a file?",
+
+    "options": [
+      { "option": "A", "text": "fs.appendFile()" },
+      { "option": "B", "text": "fs.open()" },
+      { "option": "C", "text": "fs.writeFile()" },
+      { "option": "D", "text": "None of the above" }
+    ],
+    "correctanswer": "A"
+  },
+  {
+    "number": 15,
+    "question": "Is Node.js multithreaded?",
+
+    "options": [
+      { "option": "A", "text": "Yes" },
+      { "option": "B", "text": "No" }
+    ],
+    "correctanswer": "B"
+  }
+]

@@ -1,0 +1,18 @@
+doctype html
+head
+  meta(charset='UTF-8')
+  meta(name='viewport' content='width=device-width, initial-scale=1.0')
+  link(rel='stylesheet' href='index.css')
+  title Document
+button.start Start
+.quiz.hidden
+  h2
+    | Your score : 
+    span.score
+  .question
+    h3
+    .options
+    button.answer(type='submit') Submit
+  .evaluated
+  button.next Next
+script(src='/script.js')
