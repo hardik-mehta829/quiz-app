@@ -15,6 +15,6 @@ Run all the commands in terminal :
 **npm install nodemon --save-dev** to install nodemon  
 
 
-To start the server run : **nodemon .\index.js**  
+To start the server run : **nodemon .\index.js** or **node .\index.js**
 
 To view the app in browser paste **http://localhost:3000/** in the browser search.
