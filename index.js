@@ -24,6 +24,6 @@ app.get('/', (req, res) => {
 dbconnection();
 console.log(`${__dirname}`);
 
-app.listen(process.env.PORT, () => {
-  console.log(`Listening on port ${process.env.PORT}`);
+app.listen(3000, () => {
+  console.log(`Listening on port 3000`);
 });
