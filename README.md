@@ -1,4 +1,5 @@
-Run all the commands in terminal :
+Run all the commands in terminal :  
+
 ##[npm install] to install the node_modules
 ##[npm install express] to install express
 ##[npm install cors]to allow  cross origin resource sharing
